@@ -2,9 +2,7 @@
 
 [![Go Version](https://img.shields.io/badge/Go-1.23+-00ADD8?logo=go)](https://go.dev/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-<!-- Uncomment the build badge after you add the GitHub Actions workflow
 [![Build](https://github.com/takhleeq-ai/iso8583-parser-go/actions/workflows/go.yml/badge.svg)](https://github.com/takhleeq-ai/iso8583-parser-go/actions)
--->
 
 A minimal ISO 8583 message parser written in Go — built step by step to learn Golang fundamentals.
 
@@ -71,6 +69,11 @@ This project was built as a hands-on exercise to practice:
 - Structs, slices, and string parsing
 
 ---
+
+## 📦 Releases
+
+- **[v0.1.0](https://github.com/takhleeq-ai/iso8583-parser-go/releases/tag/v0.1.0)** — initial release
+
 
 ## 📜 License
 
